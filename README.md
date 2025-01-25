@@ -24,31 +24,33 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake
 - Assignment and Communication
-- Working the Issue
-- Resolution
+- Working the Issue/Resolution
 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-24 at 11 40 12 PM" src="https://github.com/user-attachments/assets/13f22d52-37cc-442d-ac2d-9c6b4d182c84" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For this ticket, I made it very simple since there would be no real work done on my end. I started with a fake Karen profile to make it seem like she had a problem with mobile banking for her company. This shows the creation of the ticket that will be sent to my mock corporation. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-24 at 11 53 13 PM" src="https://github.com/user-attachments/assets/ae66e962-1d3e-481d-9b77-ff6476daf9f4" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+After "Karen" sent the ticket, I log in with another user to see how it looks on the other side. I am able to make changes, assign the department/SLA for the ticket, and also add any important notes for it. From there, I can send it off, or decide to work it to completion (I later send it to my fake agent Bobby).
+</p
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1680" alt="Screenshot 2025-01-24 at 11 58 06 PM" src="https://github.com/user-attachments/assets/cb219923-7a39-4ce8-84cb-e5c518ec26bf" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+While working this ticket, I was able to make notes on what was going on through the process until it was resolved. I could then close the ticket and wait for a new one. This exercise helped me see what the ticket lifestyle looks like from both sides, start to finish!
 </p>
 <br />
